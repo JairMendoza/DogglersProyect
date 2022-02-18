@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Escuela/AndroidApps/AppDeDogglers/app/src/main/res/layout/activity_grid_list.xml" value="0.25416666666666665" />
         <entry key="..\:/Escuela/AndroidApps/AppDeDogglers/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Escuela/AndroidApps/AppDeDogglers/app/src/main/res/layout/activity_vertical_list.xml" value="0.21979166666666666" />
         <entry key="..\:/Escuela/AndroidApps/AppDeDogglers/app/src/main/res/layout/grid_list_item.xml" value="0.264" />
         <entry key="..\:/Escuela/AndroidApps/AppDeDogglers/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.264" />
       </map>
